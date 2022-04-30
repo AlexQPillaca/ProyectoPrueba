@@ -10561,19 +10561,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
+    "C:\\Users\\jkgn4\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\USUARIO\\ProyectoPrueba\\Pruebitaa.csproj",
+      "projectUniqueName": "c:\\Users\\jkgn4\\ProyectoPrueba\\Pruebitaa.csproj",
       "projectName": "Pruebitaa",
-      "projectPath": "c:\\Users\\USUARIO\\ProyectoPrueba\\Pruebitaa.csproj",
-      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\USUARIO\\ProyectoPrueba\\obj\\",
+      "projectPath": "c:\\Users\\jkgn4\\ProyectoPrueba\\Pruebitaa.csproj",
+      "packagesPath": "C:\\Users\\jkgn4\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\jkgn4\\ProyectoPrueba\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jkgn4\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
