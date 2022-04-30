@@ -12,5 +12,6 @@ public class ApplicationDbContext : IdentityDbContext
         : base(options)
     {
     }
+    public DbSet<Pruebitaa.Models.Contacto> DataContactanos { get; set; }
      
 }
