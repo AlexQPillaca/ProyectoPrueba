@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "63SrJFZFx/E4D2bjiuBkal6PWXBgYun1uc8//TpOUCFRTEJ1lpZK8F9WQAzfI1RIloJkoELxKZEghxx5d9a3Dw==",
+  "dgSpecHash": "ciVMOU7U9znAETC402h6MERMUSbqTV1dABEt4fsFPaWm3Sr6xvB+A0jSOU3rBETPG5X+So5/bGblvL6s8DTaMQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\USUARIO\\Pruebita\\Pruebitaa\\Pruebitaa.csproj",
+  "projectFilePath": "c:\\Users\\USUARIO\\ProyectoPrueba\\Pruebitaa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

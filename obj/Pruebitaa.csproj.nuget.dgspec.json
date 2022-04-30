@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\USUARIO\\Pruebita\\Pruebitaa\\Pruebitaa.csproj": {}
+    "c:\\Users\\USUARIO\\ProyectoPrueba\\Pruebitaa.csproj": {}
   },
   "projects": {
-    "c:\\Users\\USUARIO\\Pruebita\\Pruebitaa\\Pruebitaa.csproj": {
+    "c:\\Users\\USUARIO\\ProyectoPrueba\\Pruebitaa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\USUARIO\\Pruebita\\Pruebitaa\\Pruebitaa.csproj",
+        "projectUniqueName": "c:\\Users\\USUARIO\\ProyectoPrueba\\Pruebitaa.csproj",
         "projectName": "Pruebitaa",
-        "projectPath": "c:\\Users\\USUARIO\\Pruebita\\Pruebitaa\\Pruebitaa.csproj",
+        "projectPath": "c:\\Users\\USUARIO\\ProyectoPrueba\\Pruebitaa.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\USUARIO\\Pruebita\\Pruebitaa\\obj\\",
+        "outputPath": "c:\\Users\\USUARIO\\ProyectoPrueba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
